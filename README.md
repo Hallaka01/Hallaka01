@@ -4,6 +4,8 @@
 
 I'm Finn, a Media Informatics student at HSMW. I work with Flutter and build native iOS apps around ideas from my own life.
 
+**[Enter Neon City — my portfolio ↗](https://hallaka01.github.io/)**
+
 ## 01 // Selected work
 
 **[YGO Scanner](https://github.com/Hallaka01/ygo-scanner-showcase)**<br>
