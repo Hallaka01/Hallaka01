@@ -1,5 +1,19 @@
-# Hi, I'm Finn 🤫🧏🏻‍♂️🗿
+<img src="assets/neon-city.png" alt="FINN // HALLAKA — a neon city in cyan and magenta" width="100%">
 
-I study Media Informatics at HSMW and work on the frontend of [HSMWmobil](https://github.com/HSMWmobil), a Flutter app built by students for students and university staff. It’s a long-running project that people at my university actually use, which makes working on the details especially rewarding.
+<p align="center"><code>Mobile apps / Personal projects / Always exploring</code></p>
 
-In my free time, I build iOS apps around problems and ideas from my own life. One of them is [YGO Scanner](https://github.com/Hallaka01/ygo-scanner-showcase), a Yu-Gi-Oh! card scanner with a card database and deck management. I spend most of my time with Flutter and am currently learning more about APIs to connect my apps to the data they need.
+I'm Finn, a Media Informatics student at HSMW. I work with Flutter and build native iOS apps around ideas from my own life.
+
+## 01 // Selected work
+
+**[YGO Scanner](https://github.com/Hallaka01/ygo-scanner-showcase)**<br>
+A native iOS app for scanning cards, organizing physical copies, and planning decks around a real collection.
+
+**[HSMWmobil](https://github.com/HSMWmobil)**<br>
+I contribute to the frontend of a Flutter app built by students for students and university staff.
+
+## 02 // Toolbox
+
+`Flutter` · `Dart` · `SwiftUI` · `SwiftData`
+
+Currently exploring APIs and app integrations.
