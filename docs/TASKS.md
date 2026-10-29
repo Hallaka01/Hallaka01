@@ -5,5 +5,6 @@
 - [x] Add the concise bio and place YGO Scanner first among the existing pins.
 - [x] Link the published Neon City GitHub Pages portfolio in the README and profile website field.
 - [x] Make the banner and a Neon City entry strip clickable, add direct portfolio section links, and set the repository website.
+- [~] Replace the profile README with one richer, responsive portfolio banner; keep project details, introduction, and toolbox on the website.
 
 Verified the rendered entry image and live clicks from the profile to the portfolio home, YGO Scanner, and HSMWmobil. The project links reach visible project cards. The profile website and repository website point to the portfolio.
